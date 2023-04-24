@@ -1,5 +1,5 @@
 ![logo](https://github.com/viku4/viku4/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
-<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vikash Srivastav</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
