@@ -9,7 +9,7 @@
 - 👨‍💻 All Of My Projects Are Available At PlayStore:
 
 <p align="left">
-<a href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…IgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCIiAIiIAiIgP/Z" alt="vikash shrivastav" height="30" width="40" /></a>
+<a href="https://play-lh.googleusercontent.com/-onx34tsGF_GWZ5R6ck-81m1DJZhqAR2rlcIJdSb5pKFnb8Yw8E_WQo1HwoN_eV49wk=w240-h480-rw" alt="vikash shrivastav" height="30" width="40" /></a>
 </p>
 
 
