@@ -4,10 +4,10 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=viku4&label=Profile%20views&color=0e75b6&style=flat](https://www.linkedin.com/in/vikash-srivastav-68b126233/)" alt="viku4" /> </p>
-
+- 👨‍💻 All Of My Projects Are Available At PlayStore:
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3 align="left">All Of My Projects Are Available At PlayStore:</h3>
-- 👨‍💻 All of my projects are available at PlayStore [https://www.linkedin.com/in/vikash-shrivastav-68b126233/]
+<h3 align="left">KrishiVikasUdyog</h3>
+
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.krishivikas.android&hl=en-IN" target="blank"><img align="center" src="https://img.etimg.com/thumb/width-640,height-480,imgsize-7588,resizemode-75,msid-94856434/magazines/panache/google-to-offer-more-visibility-to-apps-on-play-store-tech-giant-working-on-listing-layout/google-play.jpg" alt="vikash shrivastav" height="30" width="40" /></a>
 </p>
