@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vikash-shrivastav-68b126233/]
+- 👨‍💻 All of my projects are available at PlayStore [https://www.linkedin.com/in/vikash-shrivastav-68b126233/]
 
 - 📫 How to reach me **vikashkumar04.edugaon@gmail.com**
 
