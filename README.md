@@ -6,8 +6,11 @@
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=viku4&label=Profile%20views&color=0e75b6&style=flat](https://www.linkedin.com/in/vikash-srivastav-68b126233/)" alt="viku4" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at PlayStore [https://www.linkedin.com/in/vikash-shrivastav-68b126233/]
+<h3 align="left">All Of My Projects Are Available At PlayStore:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vikash-srivastav-68b126233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikash shrivastav" height="30" width="40" /></a>
+</p>
+<!-- - 👨‍💻 All of my projects are available at PlayStore [https://www.linkedin.com/in/vikash-shrivastav-68b126233/] -->
 
 - 📫 How to reach me **vikashkumar04.edugaon@gmail.com**
 
