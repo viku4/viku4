@@ -10,6 +10,8 @@
 
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.krishivikas.android&hl=en-IN" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/-onx34tsGF_GWZ5R6ck-81m1DJZhqAR2rlcIJdSb5pKFnb8Yw8E_WQo1HwoN_eV49wk=w240-h480-rw"  alt="vikash shrivastav" height="50" width="40" /></a>
+
+<a href="https://play.google.com/store/apps/details?id=com.krishivikas.android&hl=en-IN" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/-onx34tsGF_GWZ5R6ck-81m1DJZhqAR2rlcIJdSb5pKFnb8Yw8E_WQo1HwoN_eV49wk=w240-h480-rw"  alt="vikash shrivastav" height="50" width="40" /></a>
 </p>
 
 
